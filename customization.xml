@@ -1,0 +1,132 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="エディター・ポップアップ・メニュー" />
+      <path value="エディター・ポップアップ・メニュー・アクション (2)" />
+      <path value="コンパイル/実行アクション" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="エディター・タブ・ポップアップ・メニュー" />
+      <path value="エディター・タブ・ポップアップ・メニュー・アクション (1)" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="お気に入りビュー・ポップアップ・メニュー" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="コマンダー・ビュー・ポップアップ・メニュー" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="エディター・ポップアップ・メニュー" />
+      <path value="エディター・ポップアップ・メニュー・アクション (2)" />
+      <path value="コンパイル/実行アクション" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="エディター・タブ・ポップアップ・メニュー" />
+      <path value="エディター・タブ・ポップアップ・メニュー・アクション (1)" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="お気に入りビュー・ポップアップ・メニュー" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="コマンダー・ビュー・ポップアップ・メニュー" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="プロジェクト・ビュー・ポップアップ・メニュー実行グループ" />
+      <path value="実行設定" />
+      <path value="RunContextGroup" />
+      <path value="group.パターン・スイートに追加" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
